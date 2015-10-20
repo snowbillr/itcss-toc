@@ -1,7 +1,7 @@
 # itcss-toc-generator
 Automatically create a table of contents comment for your main.scss ITCSS file.
 
-Running
+Running this:
 ```
 itcss-toc css/main.scss
 ```
