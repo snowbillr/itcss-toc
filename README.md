@@ -1,4 +1,4 @@
-# itcss-toc-generator
+# itcss-toc
 Automatically create a table of contents comment for your main.scss ITCSS file.
 
 Running this:
