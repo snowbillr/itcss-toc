@@ -3,7 +3,7 @@ Automatically create a table of contents comment for your main.scss ITCSS file.
 
 Running
 ```
-itcss-toc src/sass/main.scss
+itcss-toc css/main.scss
 ```
 
 Generates this:
